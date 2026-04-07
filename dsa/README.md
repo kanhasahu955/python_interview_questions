@@ -18,12 +18,13 @@ Recommended order:
 1. `arrays_hashing`
 2. `strings_sliding_window`
 3. `set_problems`
-4. `tuple_problems`
-5. `linked_list`
-6. `stack_queue`
-7. `trees_graphs`
-8. `dynamic_programming`
-9. `number_problems`
+4. `dictionary_problems`
+5. `tuple_problems`
+6. `linked_list`
+7. `stack_queue`
+8. `trees_graphs`
+9. `dynamic_programming`
+10. `number_problems`
 
 Reference guides:
 
@@ -33,3 +34,4 @@ Reference guides:
 - `LINKED_LIST_PROBLEMS.md` for complete linked list DSA problems
 - `TUPLE_PROBLEMS.md` for complete two-pointer and tuple DSA problems
 - `SET_PROBLEMS.md` for complete set and hashset DSA problems
+- `DICTIONARY_PROBLEMS.md` for complete dictionary and hashmap DSA problems

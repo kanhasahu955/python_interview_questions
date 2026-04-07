@@ -522,6 +522,47 @@ If you are already working as a Python developer, prepare in this order:
 8. Intervals and greedy
 9. Trie and bit manipulation
 
+---
+
+### Dictionary and HashMap Problems
+File: `python/dictionary_problems.py` | `javascript/dictionary_problems.js`
+Guide: `DICTIONARY_PROBLEMS.md`
+
+| # | Problem | Input | Output |
+|---|---------|-------|--------|
+| 1 | Two Sum | `[2,7,11,15]`, target=9 | `[0,1]` |
+| 2 | Valid Anagram | `"anagram"`, `"nagaram"` | `true` |
+| 3 | Ransom Note | `"aa"`, `"aab"` | `true` |
+| 4 | Word Frequency Count | `"the cat sat on the mat"` | `{the:2,cat:1,...}` |
+| 5 | First Unique Character | `"leetcode"` | `0` |
+| 6 | Top K Frequent Words | `["i","love","i","love","coding"]`, k=2 | `["i","love"]` |
+| 7 | Majority Element | `[3,2,3]` | `3` |
+| 8 | Majority Element II | `[1,1,1,3,3,2,2,2]` | `[1,2]` |
+| 9 | Two Sum III (Data Structure) | add(1),add(3),find(4) | `true` |
+| 10 | Subarray Sum Equals K | `[1,1,1]`, k=2 | `2` |
+| 11 | Longest Subarray with Sum K | `[1,-1,5,-2,3]`, k=3 | `4` |
+| 12 | Binary Subarrays with Sum | `[1,0,1,0,1]`, goal=2 | `4` |
+| 13 | Contiguous Array (equal 0s/1s) | `[0,1,0,0,1,1,0]` | `6` |
+| 14 | Word Count Engine | `"practice makes perfect..."` | sorted by freq |
+| 15 | LRU Cache | capacity=2, put/get ops | O(1) ops |
+| 16 | LFU Cache | capacity=2, put/get ops | O(1) ops |
+| 17 | Group Shifted Strings | `["abc","bcd","xyz"]` | grouped |
+| 18 | Find All Anagrams in a String | `s="cbaebabacd"`, p="abc" | `[0,6]` |
+| 19 | Minimum Window Substring | `"ADOBECODEBANC"`, `"ABC"` | `"BANC"` |
+| 20 | Longest Repeating Char Replacement | `"AABABBA"`, k=1 | `4` |
+| 21 | Decode String | `"3[a2[c]]"` | `"accaccacc"` |
+| 22 | Evaluate Division | equations + values + queries | ratios |
+| 23 | Task Scheduler | `["A","A","A","B","B","B"]`, n=2 | `8` |
+| 24 | Reorganize String | `"aab"` | `"aba"` |
+| 25 | Hand of Straights | `[1,2,3,6,2,3,4,7,8]`, size=3 | `true` |
+| 26 | Frequency of Most Frequent Element | `[1,2,4]`, k=5 | `3` |
+| 27 | Custom Sort String | order=`"cba"`, s=`"abcd"` | `"cbad"` |
+| 28 | Number of Atoms | `"Mg(OH)2"` | `"H2MgO2"` |
+| 29 | Subarray Sum Divisible by K | `[4,5,0,-2,-3,1]`, k=5 | `7` |
+| 30 | Brick Wall | rows of brick widths | min crossings |
+
+---
+
 ## How To Study Each Program
 
 For every problem:
