@@ -6,7 +6,7 @@ Common number-related DSA interview questions:
 1. Palindrome Number
 2. Reverse Integer
 3. Plus One
-4. Happy Number
+4. Happy Number 
 5. Power of Two
 6. Sqrt(x)
 7. Pow(x, n)

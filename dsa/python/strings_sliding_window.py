@@ -83,7 +83,7 @@ def group_anagrams(words: list[str]) -> list[list[str]]:
     Debugging steps:
     1. Print each word and its normalized key
     2. Print the map after insertion
-    """
+    """ 
     groups: dict[str, list[str]] = {}
     for word in words:
         key = "".join(sorted(word))
@@ -140,6 +140,7 @@ def longest_unique_substring_window(text: str) -> int:
         best = max(best, right - left + 1)
 
     return best
+
 
 
 def minimum_window_substring(source: str, target: str) -> str:
